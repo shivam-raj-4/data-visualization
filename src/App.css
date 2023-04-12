@@ -1,0 +1,11 @@
+.Chart {
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.App {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 25px;
+}
