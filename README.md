@@ -1,3 +1,14 @@
+# Data Visualization using React
+
+This project implements **Scatter plot** and **Bar chart** using *React* and *ECharts*.
+
+[Wine Data Set](https://github.com/shivam-raj-4/data-visualization/blob/master/src/data/Wine-Data.json) is used for visualization.
+
+# Screenshot:
+
+![image](https://user-images.githubusercontent.com/53818754/231449988-0ca761d3-b9f7-40a4-a093-d63fa08dc9cf.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
